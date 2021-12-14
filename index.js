@@ -1367,32 +1367,32 @@ audio35 = fs.readFileSync('./X4/nyz35.m4a')
             sendVn(audio35)
             break               	  	
             case 'xkontol':	
-			if (!isGroup) return reply("ONLY GRUP)
+			if (!isGroup) return reply("ONLY GRUP")
 			if (nay.message.extendedTextMessage === undefined || nay.message.extendedTextMessage === null) return reply('TAG ORANG KAK')				 	
 			nayla.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} })   		
 			break 	
 			case 'xganteng': 
-			if (!isGroup) return reply("ONLY GRUP)
+			if (!isGroup) return reply("ONLY GRUP")
 			if (nay.message.extendedTextMessage === undefined || nay.message.extendedTextMessage === null) return reply('TAG ORANG KAK')			
 			nayla.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(11)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} })   		
 			break 	
 			case 'xcantik': 
-			if (!isGroup) return reply("ONLY GRUP)
+			if (!isGroup) return reply("ONLY GRUP")
 			if (nay.message.extendedTextMessage === undefined || nay.message.extendedTextMessage === null) return reply('TAG ORANG KAK')			
 			nayla.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} })   		
 			break 	
 			case 'xjelek': 
-			if (!isGroup) return reply("ONLY GRUP)
+			if (!isGroup) return reply("ONLY GRUP")
 			if (nay.message.extendedTextMessage === undefined || nay.message.extendedTextMessage === null) return reply('TAG ORANG KAK')			
 			nayla.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(9)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} })   		
 			break 	
 			case 'xgoblok': 
-			if (!isGroup) return reply("ONLY GRUP)
+			if (!isGroup) return reply("ONLY GRUP")
 			if (nay.message.extendedTextMessage === undefined || nay.message.extendedTextMessage === null) return reply('TAG ORANG KAK')			
 			nayla.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(10)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} })   		
 			break 				  
             case 'xbego': 
-			if (!isGroup) return reply("ONLY GRUP)
+			if (!isGroup) return reply("ONLY GRUP")
 			if (nay.message.extendedTextMessage === undefined || nay.message.extendedTextMessage === null) return reply('TAG ORANG KAK')			
 			nayla.sendMessage(from, undef2, sticker, {quoted: { key: { fromMe: false, participant: `${body.slice(8)}@s.whatsapp.net`, ...({}) }, message: { "extendedTextMessage": { "text": `*Ehm.. gw ${command1} bro:v!*`} } }, contextInfo: {forwardingScore: 508, isForwarded: true} })   		
 			break 	
