@@ -12,18 +12,7 @@ ${tz} *WITA* : ${wita}
 ${tz} *WIT* : ${wit}
 
 ❲ *RANDOM TEXT* ❳
-${tz} *${prefix}search*
-${tz} *${prefix}asupan*
-${tz} *${prefix}textpro*
-${tz} *${prefix}vcardrandom*
-${tz} *${prefix}tagrandom*
-${tz} *${prefix}sticktagrandom*
-${tz} *${prefix}raterandom*
-${tz} *${prefix}randomtext*
-${tz} *${prefix}randommenu*
-${tz} *${prefix}randomanime*
-${tz} *${prefix}ownermenu*
-${tz} *${prefix}imageanime*
+${tz} *${prefix}allmenu*
 ${tz} *${prefix}gamemenu*
 ${tz} *${prefix}grubmenu*
 ${tz} *${prefix}audiomenu*
